@@ -3,7 +3,7 @@
 ## The aim
 Syntagma is a computer program written in C# and running on Windows computers. Its aim is to take a corpus of natural language text and to make a start on discovering the grammar of that language. It groups together words with similar distributions into classes and seeks to find groups of classes which can be considered structures.
 
-The program is available free of charge on my [web site](www.colinday.co.uk/downloads).
+The program is available free of charge on my [web site](http://www.colinday.co.uk/downloads).
 
 ## The method
 The program runs in two phases. Phase 1 reads in the corpus and on the basis of their distribution some words are grouped into classes. Phase 1 may only be executed once.
